@@ -2,7 +2,7 @@
 AI (Artifical Intelligence)
 NIM : 13-111-3239
 NAMA : Harapanto Sinaga
-KELAS : TP_B_Pagi
+KELAS : TP-B-Pagi
 
 1. Apakah anda setuju atau tidak dengan pendapat Turing?
 Saya tidak setuju dangan pendapat Turing. Yang di mana Turing membahas dengan sebuah ide ide yang sangat baik, tetapi berbahaya. 
