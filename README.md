@@ -1,5 +1,6 @@
 # Tugas-kecerdasan-Buatan
 AI (Artifical Intelligence)
+
 NIM     : 13-111-3239
 NAMA    : Harapanto Sinaga
 KELAS   : TP-B-Pagi
