@@ -6,8 +6,8 @@ NAMA    : Harapanto Sinaga
 KELAS   : TP-B-Pagi
 
 1. Apakah anda setuju atau tidak dengan pendapat Turing?
-Saya tidak setuju dangan pendapat Turing. Yang di mana Turing membahas dengan sebuah ide ide yang sangat baik, tetapi berbahaya. 
-Yang dimana memberikan sebuah ide ide penemuan baru yang sangat wanderfull and fantastic. 
+Saya tidak setuju dangan pendapat Turing. Yang dimana Turing membahas dengan sebuah ide-ide yang sangat baik, tetapi berbahaya. 
+Yang dimana memberikan sebuah ide-ide penemuan baru yang sangat wanderfull and fantastic. 
 Dengan menciptakan sebuah mesin layaknya seperti manusia. Dengan memberikan pemikiran kepada mesin adalah hal yang tidak mungkin 
 karena layak nya hal yg memiliki pemikiran adalah ciptaan tuhan yang maha esa
 
